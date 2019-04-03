@@ -1,0 +1,10 @@
+Package: ruby-install
+Version: 0.7.0-1
+Architecture: amd64
+Maintainer: Ed Clements <ed.clements@gmail.com>
+Installed-Size: 72
+Section: ruby
+Priority: optional
+Homepage: https://github.com/postmodern/ruby-install
+Description: Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+ Installs multiple versions of Ruby for usage with chruby
