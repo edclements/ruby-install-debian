@@ -1,2 +1,2 @@
-diff-ignore = "test/home/*"
+extend-diff-ignore = "test/home/*"
 tar-ignore = "test/home/*"
