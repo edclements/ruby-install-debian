@@ -4,7 +4,6 @@ c97eb12841b535513d70d42926e66844  usr/bin/ruby-install
 1925885b9f7ad4c5c85ee5e951b68958  usr/share/doc/ruby-install-0.7.0/LICENSE.txt
 16b582619ce7437a406d62f665027230  usr/share/doc/ruby-install-0.7.0/README.md.gz
 5515251ff69b22acca8681ecab0bc193  usr/share/doc/ruby-install/changelog.Debian.gz
-757769775828f00ec92a1dae8ef0550e  usr/share/doc/ruby-install/changelog.gz
 33557f0dc157834935c3992bd553ea77  usr/share/doc/ruby-install/copyright
 26b94620297a951da76eab43b234a96c  usr/share/man/man1/ruby-install.1.gz
 de2f0ef3a35ad2e014f3de14305efb3d  usr/share/ruby-install/checksums.sh
