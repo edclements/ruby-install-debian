@@ -1,3 +1,9 @@
+ruby-install (0.8.5-1) UNRELEASED; urgency=medium
+
+  * Various fixes.
+
+ -- Ed Clements <ed.clements+deb@gmail.com>  Fri, 02 Dec 2022 17:31:20 +0000
+
 ruby-install (0.7.0-1) unstable; urgency=medium
 
   * Initial release.
