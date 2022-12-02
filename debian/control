@@ -1,0 +1,16 @@
+Source: ruby-install
+Section: ruby
+Priority: optional
+Maintainer: Ed Clements <ed.clements@gmail.com>
+Build-Depends: debhelper (>= 9),
+               shunit2
+Standards-Version: 3.9.8
+Homepage: https://github.com/postmodern/ruby-install
+#Vcs-Browser: https://salsa.debian.org/debian/ruby-install
+#Vcs-Git: https://salsa.debian.org/debian/ruby-install.git
+
+Package: ruby-install
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Installs Ruby, JRuby, Rubinius, TruffleRuby or MRuby
+ Installs multiple versions of Ruby for usage with chruby
